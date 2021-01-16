@@ -1,0 +1,3 @@
+config.sys
+
+DEVICE=C:\EMMSTUB.SYS
